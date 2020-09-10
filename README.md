@@ -1,13 +1,15 @@
-## Your Name
+## James Alex Forster
+I'm a life long learner with bags of commercial experience who is hugely excited to be starting their career as a developer.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I've worked for sales and account management for many years, most recently for Makers Academy, where I was handling six-figure partnerships with companies like KPMG, Capgemini, Global, Expedia and many more. Whilst at Makers I found my passion for the problem-solving and creative applications of software development, and decided to take the course myself. I went from a complete code novice to developing an application with several different API's, using technologies that were new to me, 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description            | Tech/tools        |
+| ---------------------------- | -----------------      | ----------------- |
+| **Spotivibes**               | A mood-ring for music. | JS, Express, React, Jest, Google Natural Language & Image Analysis API's, Spotify API |
+| **Bank Tech Test** | Sample tech test. | JS, Jasmine              |
+
 
 ## Experience
 
@@ -42,14 +44,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-
+#### Makers Academy (June '20 Cohort)
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Agile/XP Principles
+- Ruby: Rails, Sinatra, Rspec, Capybara
+- JS: React, Node, Express, Jasmine, Jest
+- SQL/PostgreSQL
+- HTML/CSS
 
-#### Your University / College (start_date to end_date)
+#### Southampton University ()
+- Film BA
 
 - Subject, any specialisms
 - Grade
