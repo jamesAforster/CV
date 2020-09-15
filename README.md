@@ -5,6 +5,7 @@ I've worked for sales and account management for many years, most recently for M
 
 I'm driven, conscientious and people-orientated, and love working closely with others in a team and learning from them. 
 
+
 ## Projects
 | Name                         | Description            | Tech/tools        |
 | ---------------------------- | -----------------      | ----------------- |
@@ -15,14 +16,17 @@ I'm driven, conscientious and people-orientated, and love working closely with o
 
 ## Key Skills
 **Communication**
+
 My career before development was all about empathy, communication, understanding and trust. I feel like those are skills that are massively important in development, and I bring a great deal of skill and experience with me on that front. I love working with others, and am a true team player.
 
 **Clean Code**
+
 I'm currently reading Clean Code by Uncle Bob and, perhaps unexpectedly, finding it quite an exciting read.
 
 I am finding that I have a love for clean, maintainable, readable and scalable code. I find that the idea of software as a craft, and the philosophy of taking pride in the quality of your work is something that I am really engaged by. I want other people to read my code and enjoy the experience, and find it easy to understand. This is an ongoing (well, neverending) process, and I know that there is always more work to be done on this front!
 
 **TDD**
+
 TDD provides a framework by which to break down any problem into smaller chunks, and stop it from becoming overwhelming. The process of writing a feature test before anything else can sometimes feel a little superfluous, but I actively enjoy that approach to development. It almost feels a bit ceremonial, and I really like that. Practically, it means that the code you write is cleaner, more direct, and, ideally, fully tested. 
 
 ## Education
@@ -48,24 +52,27 @@ We used a great range of development best practices: breaking down user requirem
 
 ## Experience
 **Makers** (01/2019 - 05/2020)
+
 Enterprise Partnerships Manager
 - Primary lead on six-figure partnerships with companies including KPMG, Expedia, Capgemini, News UK, Global.
 - Managed end to end sales processes as well as ongoing account management for some of Maker's biggest partners.
 - Hosted networking events, gave talks, a range of other business activities.
 
 **Beanstalk Charity** (08/2018 - 12/2019)  
+
 Partnerships Manager
 - Developed partnerships for the charity with schools across London.
 - Utilised networks and platforms to increase visibility for the charity and create awareness for the services they provided and the problem they solved.
 
 **KeyAGENT** (09/2017 - 07/2018)
+
 Sales and Onboarding Manager
 - Succesfully developed relationships with hundreds of national and independent estate agents.
 - Maintained relationships and account managed for these partners on an ongoing basis,
 
 ## Hobbies
-My housemates would probably tell me I played far too much guitar if they were not so polite. I spend a lot of time outside of work writing songs and working other little creative projects. Not necessarily with any grand intention, just because I enjoy the process of making things. You can listen to my soundcloud here if you fancy listening to some depressing music: https://soundcloud.com/user-656076887.
+My housemates would probably tell me I played far too much guitar if they were not so polite. I spend a lot of time outside of work writing songs and working other little creative projects. Not with any grand intention, just because it's fun and I enjoy the process of making things. Feel free to listen to my SoundCloud if you fancy listening to what has been described as [Elliott Smith without the talent or optimism](https://soundcloud.com/user-656076887).
 
-I am also maintaining a blog about development, the jobhunt, and anything else related to technology. Also Mr Bean gifs. It's early days, but have a read here: 
+I am also maintaining a blog about development, the jobhunt, and anything else related to technology. Also Mr Bean gifs. It's early days, but have a read [here](https://medium.com/@jamesalexforster).
 
 I also run, read, meditate, listen to a lot of music (some of it very cheerful, actually), maintain a love of cinema and art, and like arguing about politics and all of the aforementioned topics at the pub.
