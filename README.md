@@ -1,5 +1,14 @@
-## James Alex Forster                                                                                                                                        
-<div class="row">
+## James Alex Forster       
+<style>
+  .row { 
+    display: flex;
+  }
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+</style>
+<div class="row" style>
   <div class="column">
     <a href="https://www.codewars.com/users/JJzz">
       <img alt="Codewars Logo"                      src="https://camo.githubusercontent.com/c6341567c3ede1b4ee0935509a378c482153026f/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" width="100">
