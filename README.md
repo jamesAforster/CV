@@ -1,12 +1,15 @@
 ## James Alex Forster       
 <style>
-  .row { 
-    display: flex;
-  }
   .column {
-    flex: 33.33%;
+    float: left;
+    width: 50%;
     padding: 5px;
-  }
+   }
+  .row::after {
+  content: "";
+  clear: both;
+  display: table;
+  } 
 </style>
 <div class="row" style>
   <div class="column">
