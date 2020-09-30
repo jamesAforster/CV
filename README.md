@@ -1,5 +1,5 @@
 ## James Alex Forster
-[![Codewars](https://www.codewars.com/assets/logos/logo-square-red-big-c74ae0e7a89b33acd3beb1f08229630391934650e3bbd30ddc40e8be5bbfc71e.png) | width=100](https://www.codewars.com/users/JJzz) 
+[![Codewars | 50%](https://www.codewars.com/assets/logos/logo-square-red-big-c74ae0e7a89b33acd3beb1f08229630391934650e3bbd30ddc40e8be5bbfc71e.png)](https://www.codewars.com/users/JJzz) 
 
 [LinkedIn](https://www.linkedin.com/in/james-forster-170723104/)
 
