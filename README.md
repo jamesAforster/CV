@@ -1,6 +1,6 @@
 ## James Alex Forster
 <a href="https://www.codewars.com/users/JJzz">
-  <img alt="Codewars Logo" src="https://www.codewars.com/assets/logos/logo-square-red-big-c74ae0e7a89b33acd3beb1f08229630391934650e3bbd30ddc40e8be5bbfc71e.png" width=100">
+  <img alt="Codewars Logo" src="https://camo.githubusercontent.com/c6341567c3ede1b4ee0935509a378c482153026f/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" width=100">
 </a>
 
 <a href="https://www.linkedin.com/in/james-forster-170723104/">
