@@ -1,33 +1,33 @@
 ## James Alex Forster
-I'm a life long learner with a huge amount of commercial experience who is hugely excited to be starting their career as a developer.
+I'm a full stack developer, recently graduated from the Makers bootcamp, with a large amount of commercial experience from my previous career. I'm a passionate learner who is hugely excited to be starting their career as a developer and am hungry to learn and grow in a new role.
 
-I've worked for sales and account management for several years, most recently for Makers Academy, where I was handling six-figure partnerships with companies like KPMG, Capgemini, Global, Expedia and others. Whilst at Makers I found my passion for the problem-solving and creative applications of software development, and decided to take the course myself. I went from being a complete code novice with minimal Ruby knowledge, to developing an application with several different API's, using new technologies and frameworks, within a tight 2 week timeframe.
+On the course I went from being a code novice with minimal Ruby knowledge, to working as part of a team of students developing an application in Javascript with several different API's, using new technologies and frameworks. Over the three months at Makers, I used Agile principles throughout, programmed in both Ruby and JavaScript, utilised TDD, BDD and Pair Programming, and developed a real passion for software development.
 
-I'm driven, conscientious and people-orientated, and love working closely with others in a team and learning from them. 
-
+Before that, I worked for sales and account management for several years, most recently for Makers Academy, where I was handling six-figure partnerships with companies like KPMG, Capgemini, Global, Expedia and others. Whilst at Makers I found my passion for the problem-solving and creative applications of software development, and decided to take the course myself. 
 
 ## Projects
 | Name                         | Description            | Tech/tools        |
 | ---------------------------- | -----------------      | ----------------- |
-| [SpotiVibes](https://www.spotivibes.surge.sh)             | A mood-ring for music. | JS, Express, React, Jest, Google Natural Language & Image Analysis API's, Spotify API. |
-| [Bank Tech Test](https://github.com/jamesAforster/bankTechTest) | Sample tech test. | JS, Jasmine.     |
-| [Makers BnB](https://github.com/jamesAforster/Makersbnb) | Group Makers project to create a clone of Air BnB. | JS, Node, Express, PostgreSQL. |
-| [Example Story CV](https://github.com/makersacademy/example-story-website)| Post-course project, to provide a customisable template for developers to demonstrate their potential. | TypeScript, Jest, Enzyme, Bootstrap, GraphQL, Sass |
+| [SpotiVibes](https://www.spotivibes.surge.sh)             | A mood-ring for music. | JavaScript, Express, React, Jest, Google Natural Language & Image Analysis API's, Spotify API. |
+| [Bank Tech Test](https://github.com/jamesAforster/bankTechTest) | Sample tech test. | JavaScript, Jasmine.     |
+| [Tic Tac Toe Tech Test](https://github.com/jamesAforster/ticTacToeTechTest) | Sample tech test. | JavaScript. |
+| [Makers BnB](https://github.com/jamesAforster/Makersbnb) | Group Makers project to create a clone of Air BnB. | JavaSscript, Node, Express, PostgreSQL. |
+| [Example Story CV](https://github.com/makersacademy/example-story-website)| Ongoing Makers Academy project to provide a customisable template for developers to demonstrate their potential. | TypeScript, Jest, Enzyme, Bootstrap, GraphQL. |
+
 
 ## Key Skills
 **Communication**
 
-My career before development was all about empathy, communication, understanding and trust. I feel like those are skills that are massively important in development; trust within a team when working to tight schedule, the importance of understanding briefs and communicating expectations to clients, empathising with others when they are struggling, and being able to be open and honest about your own technical challenges are all critical to being an effective developer.
+My career before development was all about empathy, communication, understanding and trust. I feel like those are skills that are massively important in development; trust within a team when working to tight schedule, the importance of understanding briefs and communicating expectations to clients, empathising with others when they are struggling, and being able to be open and honest about your own technical challenges are all critical to being an effective developer. 
+I'm driven, conscientious and people-orientated, and love working closely with others in a team and learning from them. 
+
+**Problem Solving**
+
+Something that I've learned is that every problem has a solution, even the solution is to rethink the problem. Someone told me at Makers that "being a developer is being paid to be frustrated", and that stayed with me! The growth mindset I have developed means that I take a pragmatic and determined approach to problem solving, and I find that I excel at the creative aspect of developing solutions. 
 
 **Clean Code**
 
-I'm currently reading Clean Code by Uncle Bob and, perhaps unexpectedly, finding it quite an exciting read.
-
-I am finding that I have a love for clean, maintainable, readable and scalable code. I find that the idea of software as a craft, and the philosophy of taking pride in the quality of your work is something that I am really engaged by. I want other people to read my code and find it easy to understand and change without having to ask me what this function does, or getting confused about similarly named variables. This is an ongoing (neverending) process, and I know that there is always more work to be done on this front!
-
-**TDD**
-
-TDD provides a framework by which to break down any problem into smaller chunks. Especially during the Makers course, this really stopped seemingly overwhelming problem get the better of you, and forces you to look at the smallest 'input => output' function. The process of writing a feature test before anything else can sometimes feel a little superfluous, but I actively enjoy that approach to development. It almost feels a bit ceremonial, and I really like that. Practically, it means that the code you write is cleaner, more direct, and, ideally, fully tested. 
+I have a very strong attention to detail and always aspire to apply the concepts of code craftsmanship, a subject that I find quite exciting. I'm currently reading Clean Code by Robert Martin and it's reaffirming the appeal and necessity clean, maintainable, readable and scalable code. This is an ongoing (neverending) process, and I know that there is always more work to be done on this front.
 
 ## Education
 #### Makers Academy (June '20 Cohort)
@@ -36,9 +36,9 @@ Through a super intensive 4 month program, involving a combination of individual
 We used a great range of development best practices: breaking down user requirements into user stories and developing applications using an agile development process, working in a team to very short deadlines and with changing project requirements half way through, diagramming and domain modelling to ensure a smooth development process, and many more.
 
 - Ruby: Rails, Sinatra, Rspec, Capybara
-- JS: React, Node, Express, Jasmine, Jest
+- JavaScript: React, Node, Express, Jasmine, Jest
 - Clean Code, SRP, Readability, DRY princples
-- A focus on Object Orientated Programming
+- Object Orientated Programming
 - Test Driven Development
 - Agile/XP Principles
 - MVC website structure
