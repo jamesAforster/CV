@@ -1,19 +1,14 @@
 ## James Alex Forster    
 
-<style>
-.red {color: red}
-</style>
-
-
 <div class="red">
   <div class="column">
     <a href="https://www.codewars.com/users/JJzz">
-      <img alt="Codewars Logo"                      src="https://camo.githubusercontent.com/c6341567c3ede1b4ee0935509a378c482153026f/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" width="100" height="100">
+      <img alt="Codewars Logo"                      src="https://camo.githubusercontent.com/c6341567c3ede1b4ee0935509a378c482153026f/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" width="100">
     </a>
   </div>
   <div class="column">
     <a href="https://www.linkedin.com/in/james-forster-170723104/">
-      <img alt="LinkedIn Logo" src="https://www.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" width="100" height="100">
+      <img alt="LinkedIn Logo" src="https://www.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" width="100">
     </a>
   </div>
 </div>
