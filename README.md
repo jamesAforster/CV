@@ -1,8 +1,8 @@
 ## James Alex Forster
 
-I'm a full stack developer, recently graduated from the Makers bootcamp, with a large amount of commercial experience from my previous career. I'm a passionate learner who is hugely excited to be starting their career as a developer and am hungry to learn and grow in a new role.
+I'm a full stack developer, recently graduated from the Makers bootcamp, with a large amount of commercial experience from my previous career. I'm a dedicated learner who is hugely excited to be starting their career as a developer and am hungry to learn and grow in a new role.
 
-On the course I went from being a code novice with minimal Ruby knowledge, to working as part of a team of students developing an application in Javascript with several different API's, using new technologies and frameworks. Over the three months at Makers, I used Agile principles throughout, programmed in both Ruby and JavaScript, utilised TDD, BDD and Pair Programming, and developed a real passion for software development.
+On the course I went from being a code novice with minimal Ruby knowledge, to working as part of a team of students developing an application in Javascript with several different API's, using new technologies and frameworks. Over the three months at Makers, I used Agile processes throughout, programmed in both Ruby and JavaScript, utilised TDD, BDD and Pair Programming, and ignited a real passion for software development.
 
 Before that, I worked for sales and account management for several years, most recently for Makers Academy, where I was handling six-figure partnerships with companies like KPMG, Capgemini, Global, Expedia and others. Whilst at Makers I found my passion for the problem-solving and creative applications of software development, and decided to take the course myself. 
 
@@ -22,13 +22,13 @@ Before that, I worked for sales and account management for several years, most r
 My career before development was all about empathy, communication, understanding and trust. I feel like those are skills that are massively important in development; trust within a team when working to tight schedule, the importance of understanding briefs and communicating expectations to clients, empathising with others when they are struggling, and being able to be open and honest about your own technical challenges are all critical to being an effective developer. 
 I'm driven, conscientious and people-orientated, and love working closely with others in a team and learning from them. 
 
-**Problem Solving**
-
-Something that I've learned is that every problem has a solution, even the solution is to rethink the problem. Someone told me at Makers that "being a developer is being paid to be frustrated", and that stayed with me! The growth mindset I have developed means that I take a pragmatic and determined approach to problem solving, and I find that I excel at the creative aspect of developing solutions. 
-
 **Clean Code**
 
 I have a very strong attention to detail and always aspire to apply the concepts of code craftsmanship, a subject that I find quite exciting. I'm currently reading Clean Code by Robert Martin and it's reaffirming the appeal and necessity clean, maintainable, readable and scalable code. This is an ongoing (neverending) process, and I know that there is always more work to be done on this front.
+
+**Problem Solving**
+
+The growth mindset I have developed means that I take a pragmatic and determined approach to problem solving, and I find that I excel at the creative aspect of developing solutions. Something that I've learned is that every problem has a solution, even the solution is to rethink the problem. Someone told me at Makers that "being a developer is being paid to be frustrated", and that stayed with me! It's so important to not let that get on top of you.
 
 ## Education
 #### Makers Academy (June '20 Cohort)
