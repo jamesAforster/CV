@@ -1,9 +1,9 @@
 ## James Alex Forster
 
-[![LinkedIn](/images/linkedin.svg)](https://www.linkedin.com/in/james-forster-170723104/)
-[![CodeWars](/images/codewars.svg)](https://codewars.com/users/JJzz)
-[![GitHub](/images/github.svg)](https://github.com/jamesAforster)
-[![Medium](/images/medium.png)](https://medium.com/@jamesalexforster)
+[![LinkedIn](/images/linkedin.svg) =100x](https://www.linkedin.com/in/james-forster-170723104/)
+[![CodeWars](/images/codewars.svg) =100x](https://codewars.com/users/JJzz)
+[![GitHub](/images/github.svg) =100x](https://github.com/jamesAforster)
+[![Medium](/images/medium.png) =100x](https://medium.com/@jamesalexforster)
 
 I'm a full stack developer, recently graduated from the Makers bootcamp, with a large amount of commercial experience from my previous career. I'm a dedicated learner who is hugely excited to be starting their career as a developer and am hungry to learn and grow in a new role.
 
