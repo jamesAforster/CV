@@ -1,10 +1,10 @@
 <h1 align="center">James Alex Forster</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/james-forster-170723104/"><img src="/images/linkedin.svg" width="50"></a>&nbsp;
-  <a href="https://codewars.com/users/JJzz"><img src="/images/codewars.svg" width="50"></a>&nbsp;
-  <a href="https://github.com/jamesAforster"><img src="/images/github.svg" width="50"></a>&nbsp;
-  <a href="https://medium.com/@jamesalexforster"><img src="/images/medium.png" width="50"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/james-forster-170723104/"><img src="/images/linkedin.svg" width="50"></a>&nbsp;&nbsp;
+  <a href="https://codewars.com/users/JJzz"><img src="/images/codewars.svg" width="50"></a>&nbsp;&nbsp;
+  <a href="https://github.com/jamesAforster"><img src="/images/github.svg" width="50"></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@jamesalexforster"><img src="/images/medium.png" width="50"></a>&nbsp;&nbsp;
 </p>
 
 
