@@ -12,7 +12,7 @@ I'm a full stack developer, recently graduated from the Makers bootcamp, with a 
 
 On the course I went from being a code novice with minimal Ruby knowledge, to working as part of a team of students developing an application in Javascript with several different API's, using new technologies and frameworks. Over the three months at Makers, I used Agile processes throughout, programmed in both Ruby and JavaScript, utilised TDD, BDD and Pair Programming, and ignited a real passion for software development.
 
-Before that, I worked for sales and account management for several years, most recently for Makers Academy, where I was handling six-figure partnerships with companies like KPMG, Capgemini, Global, Expedia and others. Whilst at Makers I found my passion for the problem-solving and creative applications of software development, and decided to take the course myself. 
+Before that, I worked for sales and account management for several years, most recently for Makers Academy, where I was handling six-figure partnerships with companies like KPMG, Capgemini, Global, Expedia and others. Whilst at Makers I realised a goal to learn how to code, and became totally hooked on the problem-solving and creative applications of development. I decided to completely change my career, and haven't looked back 🚀
 
 ## Projects
 | Name                         | Description            | Tech/tools        |
@@ -30,9 +30,9 @@ Before that, I worked for sales and account management for several years, most r
 My career before development was all about empathy, communication, understanding and trust. I feel like those are skills that are massively important in development; trust within a team when working to tight schedule, the importance of understanding briefs and communicating expectations to clients, empathising with others when they are struggling, and being able to be open and honest about your own technical challenges are all critical to being an effective developer. 
 I'm driven, conscientious and people-orientated, and love working closely with others in a team and learning from them. 
 
-**Clean Code**
+**Creativity**
 
-I have a very strong attention to detail and always aspire to apply the concepts of code craftsmanship, a subject that I find quite exciting. I'm currently reading Clean Code by Robert Martin and it's reaffirming the appeal and necessity clean, maintainable, readable and scalable code. This is an ongoing (neverending) process, and I know that there is always more work to be done on this front.
+I absolutely love making things. Most recently I built a little [Twitter bot](https://github.com/jamesAforster/chillOtter) in node.js because I wanted to see how that worked, and then [wrote a blog piece](https://medium.com/@jamesalexforster/how-to-build-a-twitter-bot-in-node-js-1dc136b8a3b3) about it. I have always been a creative person, but came to realise the total thrill and excitement of building things with code. Once I get my teeth into a problem, I find it hard to give up until I have solved it, and my creative nature means that I come at problems enthusiastically and invent interesting ways to solve them.
 
 **Problem Solving**
 
