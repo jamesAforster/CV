@@ -1,11 +1,11 @@
-## James Alex Forster
+<h1 style="text-align:center;">James Alex Forster</h1>
 
-<div style="text-align:center;">
+<p style="align:center;">
   <a href="https://www.linkedin.com/in/james-forster-170723104/"><img src="/images/linkedin.svg" width="50"></a>
   <a href="https://codewars.com/users/JJzz"><img src="/images/codewars.svg" width="50"></a> 
   <a href="https://github.com/jamesAforster"><img src="/images/github.svg" width="50"></a>
   <a href="https://medium.com/@jamesalexforster"><img src="/images/medium.png" width="50"></a>
-</div>
+</p>
 
 
 I'm a full stack developer, recently graduated from the Makers bootcamp, with a large amount of commercial experience from my previous career. I'm a dedicated learner who is hugely excited to be starting their career as a developer and am hungry to learn and grow in a new role.
