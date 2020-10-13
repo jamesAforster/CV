@@ -1,5 +1,10 @@
 ## James Alex Forster
 
+[![LinkedIn](/images/linkedin.svg)](https://www.linkedin.com/in/james-forster-170723104/)
+[![CodeWars](/images/codewars.svg)](https://codewars.com/users/JJzz)
+[![GitHub](/images/github.svg)](https://github.com/jamesAforster)
+[![Medium](/images/medium.png)](https://medium.com/@jamesalexforster)
+
 I'm a full stack developer, recently graduated from the Makers bootcamp, with a large amount of commercial experience from my previous career. I'm a dedicated learner who is hugely excited to be starting their career as a developer and am hungry to learn and grow in a new role.
 
 On the course I went from being a code novice with minimal Ruby knowledge, to working as part of a team of students developing an application in Javascript with several different API's, using new technologies and frameworks. Over the three months at Makers, I used Agile processes throughout, programmed in both Ruby and JavaScript, utilised TDD, BDD and Pair Programming, and ignited a real passion for software development.
