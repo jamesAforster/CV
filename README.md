@@ -19,7 +19,6 @@ Before that, I worked for sales and account management for several years, most r
 | ---------------------------- | -----------------      | ----------------- |
 | [SpotiVibes](https://www.spotivibes.surge.sh)             | A mood-ring for music. | JavaScript, Express, React, Jest, Google Natural Language & Image Analysis API's, Spotify API. |
 | [Bank Tech Test](https://github.com/jamesAforster/bankTechTest) | Sample tech test. | JavaScript, Jasmine.     |
-| [Tic Tac Toe Tech Test](https://github.com/jamesAforster/ticTacToeTechTest) | Sample tech test. | JavaScript. |
 | [Makers BnB](https://github.com/jamesAforster/Makersbnb) | Group Makers project to create a clone of Air BnB. | JavaSscript, Node, Express, PostgreSQL. |
 | [Example Story CV](https://github.com/makersacademy/example-story-website)| Ongoing Makers Academy project to provide a customisable template for developers to demonstrate their potential. | TypeScript, Jest, Enzyme, Bootstrap, GraphQL. |
 
